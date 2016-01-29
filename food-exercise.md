@@ -11,8 +11,9 @@ Below is a short list of things you can eat. Checkout the bsa-computing reposito
 and add one or more items to the list. Then, commit your changes and push them.
 
 ### Food List
-1. Pizza
-2. Cheese
-3. Oreos
-4. Carrots
-5. Celery
+1. Lasagne
+2. Sushi
+3. Chocolate
+4. Fries
+5. Fruit
+6. Noms
